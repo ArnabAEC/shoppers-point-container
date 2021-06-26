@@ -1,0 +1,19 @@
+{
+  "name": "container",
+  "version": "1.0.0",
+  "description": "shoppers-point-container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArnabAEC/shoppers-point-container.git"
+  },
+  "author": "Arnab Sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArnabAEC/shoppers-point-container/issues"
+  },
+  "homepage": "https://github.com/ArnabAEC/shoppers-point-container#readme"
+}
